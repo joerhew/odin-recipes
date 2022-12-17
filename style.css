@@ -1,0 +1,17 @@
+h1 {
+    font-size: 100px;
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul li a {
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 10px;
+    color: peru;
+    text-decoration: none;
+
+}
+
+ul li a:hover {
+    color: darkcyan;
+}
